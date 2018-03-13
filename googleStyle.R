@@ -14,4 +14,4 @@ before <-
   tab.prior<-table(df[df$days.from.opt < 0, "campaign.id"]) # Needs spaces a
 round <-
   total <- sum(x[,1]) # Needs a space after the comma
-total <- sum(x[ ,1]) # Needs a space after the comma, not before
+
